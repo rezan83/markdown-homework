@@ -2,7 +2,7 @@
 
 ## My Awesome CV
 
-- [] ,[link text](http://www.google.com)
+- [ ] ,[link text](http://www.google.com)
 - [x] ,[another link](http://www.google.com)
 
 
