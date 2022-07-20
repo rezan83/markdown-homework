@@ -8,7 +8,7 @@
 - [x] ,[another link](http://www.google.com)
 - [x] ,Terminal
 - [x] ,Git/Github
-- [x] ,HTML
+- [x] ,HTML5
 
 You can find github documentation [here](https://help.github.com/en).
 
