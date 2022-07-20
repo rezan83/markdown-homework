@@ -2,9 +2,11 @@
 
 ## My Awesome CV
 
+<h2>Skills</h2>
+
 - [] ,[link text](http://www.google.com)
 - [x] ,[another link](http://www.google.com)
-
+- [x] ,Terminal
 
 You can find github documentation [here](https://help.github.com/en).
 
