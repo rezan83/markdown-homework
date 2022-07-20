@@ -11,7 +11,7 @@
 - [x] HTML5
 - [x] CSS
 
-    <input type="checkbox" /> JavaScript
+    <input type="checkbox" checked disabled/> JavaScript
 
 You can find github documentation [here](https://help.github.com/en).
 
