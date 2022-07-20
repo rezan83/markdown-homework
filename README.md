@@ -4,12 +4,14 @@
 
 <h2>Skills</h2>
 
-- [ ] ,[link text](http://www.google.com)
-- [x] ,[another link](http://www.google.com)
-- [x] ,Terminal
-- [x] ,Git/Github
-- [x] ,HTML5
-- [x] ,CSS
+- [ ] [link text](http://www.google.com)
+- [x] [another link](http://www.google.com)
+- [x] Terminal
+- [x] Git/Github
+- [x] HTML5
+- [x] CSS
+
+    <input type="checkbox" /> JavaScript
 
 You can find github documentation [here](https://help.github.com/en).
 
